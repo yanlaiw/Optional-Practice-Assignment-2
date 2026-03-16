@@ -1,4 +1,4 @@
-# <p align="center">PA3: Threading and Synchronization<p>
+# <p align="center">PA2: Threading and Synchronization<p>
 
 **Introduction**
 
